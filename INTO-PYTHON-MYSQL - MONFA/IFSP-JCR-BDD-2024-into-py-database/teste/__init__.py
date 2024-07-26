@@ -1,0 +1,1 @@
+from catalogo.model import Person
